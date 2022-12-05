@@ -9,10 +9,10 @@
 >`composer create-project symfony/skeleton symfony-6-rest-api`
 
 ### Step 2 - Install packages
-> `composer require jms/serializer-bundle`
-> `composer require friendsofsymfony/rest-bundle`
-> `composer require symfony/maker-bundle`     
-> `composer require symfony/orm-pack`
+ `composer require jms/serializer-bundle`
+ `composer require friendsofsymfony/rest-bundle`
+ `composer require symfony/maker-bundle`     
+ `composer require symfony/orm-pack`
 
 ### Step 3 - Configure FOSRest Bundle
 #### Open the file ***config/packages/fos_rest.yaml***
